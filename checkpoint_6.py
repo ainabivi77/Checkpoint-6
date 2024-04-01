@@ -8,4 +8,3 @@ usuario1 = Usuario('Thomas', '98765')
 
 print(usuario1.nombre_usuario)
 print(usuario1.contraseña)
-
